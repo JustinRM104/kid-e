@@ -1,3 +1,5 @@
+## Ik raad aan om gewoon de xd files te openen: overzichtelijker
+
 ## LIVE VERSIE
 http://28454.hosts2.ma-cloud.nl/kidexamen/
 
